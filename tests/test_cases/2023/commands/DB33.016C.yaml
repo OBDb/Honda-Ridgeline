@@ -1,0 +1,12 @@
+command_id: DB33.016C
+test_cases:
+- response: 18DAF11007416C0308070000
+  expected_values:
+    CTAC_A_SUP: 1
+    CTAC_B_SUP: 0
+    RTP_A_SUP: 1
+    RTP_B_SUP: 0
+    TAC_A_CMD: 3.13725
+    TAC_B_CMD: 0
+    TP_A_REL: 2.7451
+    TP_B_REL: 0
