@@ -7,8 +7,8 @@ test_cases:
     EQ_RAT: 0.82814
   response: 18DAF1100441446A00
 - expected_values:
-    EQ_RAT: 0.99217
-  response: 18DAF1100441447EFF
+    EQ_RAT: 0.96873
+  response: 18DAF1100441447BFF
 - expected_values:
     EQ_RAT: 1.99
   response: 18DAF110044144FFFF
