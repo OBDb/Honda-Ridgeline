@@ -30,5 +30,5 @@ test_cases:
 - expected_values:
     CLR_DIST: 65535
   response: |-
-    18DAF11004413132F5
+    18DAF11004413132FB
     18DAF11E044131FFFF
