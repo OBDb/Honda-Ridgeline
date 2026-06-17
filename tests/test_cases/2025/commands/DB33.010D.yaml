@@ -12,12 +12,12 @@ test_cases:
     VSS: 59
   response: 18DAF11003410D3B
 - expected_values:
-    VSS: 87
+    VSS: 86
   response: |-
-    18DAF11003410D57
-    18DAF11E03410D57
+    18DAF11003410D56
+    18DAF11E03410D56
 - expected_values:
-    VSS: 91
+    VSS: 93
   response: |-
-    18DAF11003410D5B
-    18DAF11E03410D5B
+    18DAF11003410D5D
+    18DAF11E03410D5D
