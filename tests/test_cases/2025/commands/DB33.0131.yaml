@@ -30,10 +30,10 @@ test_cases:
     18DAF1100441312300
     18DAF11E04413121F0
 - expected_values:
-    CLR_DIST: 11001
+    CLR_DIST: 11024
   response: |-
-    18DAF1100441312C41
-    18DAF11E0441312AF9
+    18DAF1100441312C59
+    18DAF11E0441312B10
 - expected_values:
     CLR_DIST: 21157
   response: |-
