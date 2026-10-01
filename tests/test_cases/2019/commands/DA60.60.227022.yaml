@@ -1,7 +1,7 @@
 command_id: DA60.60.227022
 test_cases:
 - expected_values:
-    HONDA_ODO_V3: 108434
+    RIDGELINE_ODO_V3: 108434
   response: |-
     18DAF1601039627022EC0000
     18DAF1602100000001A79200
