@@ -1,4 +1,9 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "DA0E", "type": "engine" },
+    { "hdr": "DA10", "type": "engine" },
+    { "hdr": "DA1E", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "DA0E", "rax": "0E", "cmd": {"22": "2240"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "RIDGELINE_BAT_DIST", "path": "Battery", "fmt": {"bix": 80, "len": 32, "max": 250000, "unit": "kilometers" }, "name": "Distance traveled since last charge"}
