@@ -89,7 +89,8 @@
   ]},
 { "hdr": "DA10", "rax": "10", "cmd": {"22": "2612"}, "freq": 0.25, "dbgfilter": { "to": 2020, "from": 2027 },
   "signals": [
-    {"id": "RIDGELINE_VTEC_CTRL", "path": "ECU", "fmt": {"bix": 168, "len": 8, "max": 255, "unit": "scalar" }, "name": "Variable valve control"}
+    {"id": "RIDGELINE_VTEC_PSW", "path": "Engine", "fmt": {"bix": 174, "len": 1, "max": 1, "unit": "offon" }, "name": "VTEC pressure switch"},
+    {"id": "RIDGELINE_VTEC_SOL", "path": "Engine", "fmt": {"bix": 175, "len": 1, "max": 1, "unit": "offon" }, "name": "VTEC solenoid valve"}
   ]},
 { "hdr": "DA10", "rax": "10", "cmd": {"22": "2615"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2027 },
   "signals": [
